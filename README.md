@@ -174,7 +174,7 @@ OpenAI Codex assisted with code drafting, debugging, documentation, and report p
 
 | Author | Links |
 |---|---|
-| **Shen Hao Stefano Lin** | [GitHub](https://github.com/linshenhao) · [LinkedIn](https://www.linkedin.com/in/linshenhao-49b127393) |
+|**Shen Hao Stefano Lin** | <a href="https://github.com/linshenhao"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/linshenhao-49b127393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>|
 
 ---
 
