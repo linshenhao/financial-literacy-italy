@@ -174,7 +174,7 @@ OpenAI Codex 协助了代码起草、调试、文档和报告整理。报告中�
 
 | 作者 | 链接 |
 |---|---|
-| **Shen Hao Stefano Lin** | [GitHub](https://github.com/linshenhao) · [LinkedIn](https://www.linkedin.com/in/linshenhao-49b127393) |
+|**Shen Hao Stefano Lin** | <a href="https://github.com/linshenhao"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/linshenhao-49b127393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>|
 
 ---
 
